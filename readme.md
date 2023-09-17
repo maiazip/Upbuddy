@@ -13,9 +13,13 @@ I recently developed a Fullstack project that uses artificial intelligence, in w
 It is a project with a simple layout, but full of functionalities, which integrates one of the most promising technologies today, which is growing every day, the artificial intelligence.
 
 ### 📡 Tecnologias | Technologys 
-Front-end: HTML | CSS | Javascript | React | Vite | TypeScript | Tawilndcss | RadixUi | Shadcn/ui | Lucide React | ffmpeg.wasm | Axios
+>Front-end
 
-Back-end: Node.js | Fastify | Prisma | TypeScript | Fastify-multipart | Zod | Openai API | Vercel AI SDK
+ HTML | CSS | Javascript | React | Vite | TypeScript | Tawilndcss | RadixUi | Shadcn/ui | Lucide React | ffmpeg.wasm | Axios
+
+>Back-end
+
+Node.js | Fastify | Prisma | TypeScript | Fastify-multipart | Zod | Openai API | Vercel AI SDK
 
 ### ✉️ Contate-me | Contact me 
 matheusmaiabastos@hotmail.com
