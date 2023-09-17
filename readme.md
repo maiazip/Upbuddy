@@ -12,7 +12,7 @@ Se trata de um projeto com um layout simples, mas cheio de funcionalidades, que 
 I recently developed a Fullstack project that uses artificial intelligence, in which it receives the sent video and generates transcriptions, summaries, titles, descriptions, among many other things, through the OpenAI API!
 It is a project with a simple layout, but full of functionalities, which integrates one of the most promising technologies today, which is growing every day, the artificial intelligence.
 
-### 📡 Tecnologias | Technologys 
+### 📡 Tecnologias | Technologies
 >Front-end
 
  HTML | CSS | Javascript | React | Vite | TypeScript | Tawilndcss | RadixUi | Shadcn/ui | Lucide React | ffmpeg.wasm | Axios
