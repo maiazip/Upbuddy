@@ -7,8 +7,9 @@ Este é um projeto que utiliza inteligência de artificial para gerar para um v�
 
 
 ### 📡 Tecnologias | Technologys 
+Front-end: HTML | CSS | Javascript | React | Vite | TypeScript | Tawilndcss | RadixUi | Shadcn/ui | Lucide React | ffmpeg.wasm | Axios
 
-HTML | CSS | TAILWIND | JAVASCRIPT | TYPESCRIPT | NODE.JS | GIT | GITHUB | PRISMA | SHADCNUI | FFMPEG | WEB ASSEMBLY |  
+Back-end: Node.js | Fastify | Prisma | TypeScript | Fastify-multipart | Zod | Openai API | Vercel AI SDK
 
 ### ✉️ Contate-me | Contact me 
 matheusmaiabastos@hotmail.com
