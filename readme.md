@@ -1,7 +1,7 @@
 ## UpBuddy
 ![Project preview](Preview.png)
 
-### Sobre este projeto | About this project
+### 📝 Sobre este projeto | About this project
 >Brazilian Portuguese
 
 Recentemente desenvolvi este projeto Fullstack que utiliza de inteligência artificial, no qual recebe o vídeo enviado e gera transcrições, resumos, títulos, descrições, entre outras muitas coisas, através da API da OpenAI!
